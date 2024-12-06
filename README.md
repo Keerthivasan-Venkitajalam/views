@@ -2,7 +2,7 @@
 **GitHub Profile Views Counter** is an opensource project that powered entirely by  `GitHub Actions` to fetch and store insights of repositories.
 It uses `GitHub API` to fetch the insight data of your repositories and commits changes into a separate repository.
 
-
+The project created and maintained by [gayanvoice](https://github.com/gayanvoice). Don't forget to follow him on [GitHub](https://github.com/gayanvoice), [Twitter](https://twitter.com/gayanvoice), and [Medium](https://gayanvoice.medium.com/).
 
 <table>
 	<tr>
@@ -26,13 +26,13 @@ It uses `GitHub API` to fetch the insight data of your repositories and commits 
 			</a>
 		</td>
 		<td>
-			2024/12/3 12:00 AM UTC
+			2024/12/4 12:00 AM UTC
 		</td>
 		<td>
-			10
+			12
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Keerthivasan-Venkitajalam/views/raw/master/graph/743233508/small/year.png" height="20"> 63
+			<img alt="Response time graph" src="https://github.com/Keerthivasan-Venkitajalam/views/raw/master/graph/743233508/small/year.png" height="20"> 76
 		</td>
 	</tr>
 	<tr>
@@ -42,7 +42,7 @@ It uses `GitHub API` to fetch the insight data of your repositories and commits 
 			</a>
 		</td>
 		<td>
-			2024/12/3 5:33 PM UTC
+			2024/12/4 5:33 PM UTC
 		</td>
 		<td>
 			6
@@ -58,13 +58,13 @@ It uses `GitHub API` to fetch the insight data of your repositories and commits 
 			</a>
 		</td>
 		<td>
-			2024/12/3 5:33 PM UTC
+			2024/12/4 12:00 AM UTC
 		</td>
 		<td>
-			7
+			11
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Keerthivasan-Venkitajalam/views/raw/master/graph/898470849/small/year.png" height="20"> 112
+			<img alt="Response time graph" src="https://github.com/Keerthivasan-Venkitajalam/views/raw/master/graph/898470849/small/year.png" height="20"> 190
 		</td>
 	</tr>
 	<tr>
@@ -74,7 +74,7 @@ It uses `GitHub API` to fetch the insight data of your repositories and commits 
 			</a>
 		</td>
 		<td>
-			2024/12/3 5:33 PM UTC
+			2024/12/4 5:33 PM UTC
 		</td>
 		<td>
 			4
@@ -90,13 +90,13 @@ It uses `GitHub API` to fetch the insight data of your repositories and commits 
 			</a>
 		</td>
 		<td>
-			2024/12/3 5:33 PM UTC
+			2024/12/4 12:00 AM UTC
 		</td>
 		<td>
-			5
+			6
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Keerthivasan-Venkitajalam/views/raw/master/graph/891347810/small/year.png" height="20"> 7
+			<img alt="Response time graph" src="https://github.com/Keerthivasan-Venkitajalam/views/raw/master/graph/891347810/small/year.png" height="20"> 8
 		</td>
 	</tr>
 	<tr>
@@ -106,7 +106,7 @@ It uses `GitHub API` to fetch the insight data of your repositories and commits 
 			</a>
 		</td>
 		<td>
-			2024/12/3 12:00 AM UTC
+			2024/12/4 5:33 PM UTC
 		</td>
 		<td>
 			10
@@ -122,7 +122,7 @@ It uses `GitHub API` to fetch the insight data of your repositories and commits 
 			</a>
 		</td>
 		<td>
-			2024/12/3 5:33 PM UTC
+			2024/12/4 5:33 PM UTC
 		</td>
 		<td>
 			5
@@ -138,7 +138,7 @@ It uses `GitHub API` to fetch the insight data of your repositories and commits 
 			</a>
 		</td>
 		<td>
-			2024/12/3 5:33 PM UTC
+			2024/12/4 5:33 PM UTC
 		</td>
 		<td>
 			1
@@ -154,7 +154,7 @@ It uses `GitHub API` to fetch the insight data of your repositories and commits 
 			</a>
 		</td>
 		<td>
-			2024/12/3 12:00 AM UTC
+			2024/12/4 5:34 PM UTC
 		</td>
 		<td>
 			7
@@ -170,7 +170,7 @@ It uses `GitHub API` to fetch the insight data of your repositories and commits 
 			</a>
 		</td>
 		<td>
-			2024/12/3 5:34 PM UTC
+			2024/12/4 5:34 PM UTC
 		</td>
 		<td>
 			1
@@ -186,7 +186,7 @@ It uses `GitHub API` to fetch the insight data of your repositories and commits 
 			</a>
 		</td>
 		<td>
-			2024/12/3 5:34 PM UTC
+			2024/12/4 5:34 PM UTC
 		</td>
 		<td>
 			7
@@ -202,7 +202,7 @@ It uses `GitHub API` to fetch the insight data of your repositories and commits 
 			</a>
 		</td>
 		<td>
-			2024/12/3 5:34 PM UTC
+			2024/12/4 5:34 PM UTC
 		</td>
 		<td>
 			3
@@ -218,7 +218,7 @@ It uses `GitHub API` to fetch the insight data of your repositories and commits 
 			</a>
 		</td>
 		<td>
-			2024/12/3 5:34 PM UTC
+			2024/12/4 5:34 PM UTC
 		</td>
 		<td>
 			1
@@ -234,7 +234,7 @@ It uses `GitHub API` to fetch the insight data of your repositories and commits 
 			</a>
 		</td>
 		<td>
-			2024/12/3 5:34 PM UTC
+			2024/12/4 5:34 PM UTC
 		</td>
 		<td>
 			2
@@ -250,7 +250,7 @@ It uses `GitHub API` to fetch the insight data of your repositories and commits 
 			</a>
 		</td>
 		<td>
-			2024/12/3 5:34 PM UTC
+			2024/12/4 5:34 PM UTC
 		</td>
 		<td>
 			1
@@ -266,7 +266,7 @@ It uses `GitHub API` to fetch the insight data of your repositories and commits 
 			</a>
 		</td>
 		<td>
-			2024/12/3 5:34 PM UTC
+			2024/12/4 5:34 PM UTC
 		</td>
 		<td>
 			1
@@ -282,7 +282,7 @@ It uses `GitHub API` to fetch the insight data of your repositories and commits 
 			</a>
 		</td>
 		<td>
-			2024/12/3 5:35 PM UTC
+			2024/12/4 5:35 PM UTC
 		</td>
 		<td>
 			1
@@ -298,7 +298,7 @@ It uses `GitHub API` to fetch the insight data of your repositories and commits 
 			</a>
 		</td>
 		<td>
-			2024/12/3 5:35 PM UTC
+			2024/12/4 5:35 PM UTC
 		</td>
 		<td>
 			1
@@ -314,7 +314,7 @@ It uses `GitHub API` to fetch the insight data of your repositories and commits 
 			</a>
 		</td>
 		<td>
-			2024/12/3 5:35 PM UTC
+			2024/12/4 5:35 PM UTC
 		</td>
 		<td>
 			2
@@ -330,7 +330,7 @@ It uses `GitHub API` to fetch the insight data of your repositories and commits 
 			</a>
 		</td>
 		<td>
-			2024/12/3 5:35 PM UTC
+			2024/12/4 5:35 PM UTC
 		</td>
 		<td>
 			1
@@ -346,7 +346,7 @@ It uses `GitHub API` to fetch the insight data of your repositories and commits 
 			</a>
 		</td>
 		<td>
-			2024/12/3 5:35 PM UTC
+			2024/12/4 5:35 PM UTC
 		</td>
 		<td>
 			2
@@ -362,7 +362,7 @@ It uses `GitHub API` to fetch the insight data of your repositories and commits 
 			</a>
 		</td>
 		<td>
-			2024/12/3 5:35 PM UTC
+			2024/12/4 5:35 PM UTC
 		</td>
 		<td>
 			1
@@ -378,7 +378,7 @@ It uses `GitHub API` to fetch the insight data of your repositories and commits 
 			</a>
 		</td>
 		<td>
-			2024/12/3 5:35 PM UTC
+			2024/12/4 5:35 PM UTC
 		</td>
 		<td>
 			1
@@ -394,7 +394,7 @@ It uses `GitHub API` to fetch the insight data of your repositories and commits 
 			</a>
 		</td>
 		<td>
-			2024/12/3 5:35 PM UTC
+			2024/12/4 5:35 PM UTC
 		</td>
 		<td>
 			1
@@ -410,13 +410,13 @@ It uses `GitHub API` to fetch the insight data of your repositories and commits 
 			</a>
 		</td>
 		<td>
-			2024/12/3 5:36 PM UTC
+			2024/12/4 12:00 AM UTC
 		</td>
 		<td>
-			2
+			3
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Keerthivasan-Venkitajalam/views/raw/master/graph/812246391/small/year.png" height="20"> 9
+			<img alt="Response time graph" src="https://github.com/Keerthivasan-Venkitajalam/views/raw/master/graph/812246391/small/year.png" height="20"> 17
 		</td>
 	</tr>
 	<tr>
@@ -426,7 +426,7 @@ It uses `GitHub API` to fetch the insight data of your repositories and commits 
 			</a>
 		</td>
 		<td>
-			2024/12/3 5:36 PM UTC
+			2024/12/4 5:36 PM UTC
 		</td>
 		<td>
 			2
@@ -442,7 +442,7 @@ It uses `GitHub API` to fetch the insight data of your repositories and commits 
 			</a>
 		</td>
 		<td>
-			2024/12/3 5:36 PM UTC
+			2024/12/4 5:36 PM UTC
 		</td>
 		<td>
 			1
@@ -458,7 +458,7 @@ It uses `GitHub API` to fetch the insight data of your repositories and commits 
 			</a>
 		</td>
 		<td>
-			2024/12/3 5:36 PM UTC
+			2024/12/4 5:36 PM UTC
 		</td>
 		<td>
 			1
@@ -474,7 +474,7 @@ It uses `GitHub API` to fetch the insight data of your repositories and commits 
 			</a>
 		</td>
 		<td>
-			2024/12/3 5:36 PM UTC
+			2024/12/4 5:36 PM UTC
 		</td>
 		<td>
 			2
@@ -490,7 +490,7 @@ It uses `GitHub API` to fetch the insight data of your repositories and commits 
 			</a>
 		</td>
 		<td>
-			2024/12/3 5:36 PM UTC
+			2024/12/4 5:36 PM UTC
 		</td>
 		<td>
 			1
@@ -506,7 +506,7 @@ It uses `GitHub API` to fetch the insight data of your repositories and commits 
 			</a>
 		</td>
 		<td>
-			2024/12/3 5:36 PM UTC
+			2024/12/4 5:36 PM UTC
 		</td>
 		<td>
 			1
@@ -522,7 +522,7 @@ It uses `GitHub API` to fetch the insight data of your repositories and commits 
 			</a>
 		</td>
 		<td>
-			2024/12/3 5:36 PM UTC
+			2024/12/4 5:36 PM UTC
 		</td>
 		<td>
 			0
@@ -538,7 +538,7 @@ It uses `GitHub API` to fetch the insight data of your repositories and commits 
 			</a>
 		</td>
 		<td>
-			2024/12/3 5:37 PM UTC
+			2024/12/4 5:37 PM UTC
 		</td>
 		<td>
 			2
@@ -554,7 +554,7 @@ It uses `GitHub API` to fetch the insight data of your repositories and commits 
 			</a>
 		</td>
 		<td>
-			2024/12/3 5:37 PM UTC
+			2024/12/4 5:37 PM UTC
 		</td>
 		<td>
 			4
@@ -570,7 +570,7 @@ It uses `GitHub API` to fetch the insight data of your repositories and commits 
 			</a>
 		</td>
 		<td>
-			2024/12/3 5:37 PM UTC
+			2024/12/4 5:37 PM UTC
 		</td>
 		<td>
 			0
@@ -586,7 +586,7 @@ It uses `GitHub API` to fetch the insight data of your repositories and commits 
 			</a>
 		</td>
 		<td>
-			2024/12/3 5:37 PM UTC
+			2024/12/4 5:37 PM UTC
 		</td>
 		<td>
 			1
@@ -602,7 +602,7 @@ It uses `GitHub API` to fetch the insight data of your repositories and commits 
 			</a>
 		</td>
 		<td>
-			2024/12/3 5:37 PM UTC
+			2024/12/4 5:37 PM UTC
 		</td>
 		<td>
 			1
@@ -618,7 +618,7 @@ It uses `GitHub API` to fetch the insight data of your repositories and commits 
 			</a>
 		</td>
 		<td>
-			2024/12/3 5:37 PM UTC
+			2024/12/4 5:37 PM UTC
 		</td>
 		<td>
 			1
@@ -634,7 +634,7 @@ It uses `GitHub API` to fetch the insight data of your repositories and commits 
 			</a>
 		</td>
 		<td>
-			2024/12/3 5:37 PM UTC
+			2024/12/4 5:37 PM UTC
 		</td>
 		<td>
 			0
@@ -650,7 +650,7 @@ It uses `GitHub API` to fetch the insight data of your repositories and commits 
 			</a>
 		</td>
 		<td>
-			2024/12/3 5:37 PM UTC
+			2024/12/4 5:37 PM UTC
 		</td>
 		<td>
 			1
@@ -661,7 +661,7 @@ It uses `GitHub API` to fetch the insight data of your repositories and commits 
 	</tr>
 </table>
 
-<small><i>Last updated on 2024/12/6 5:38 PM UTC</i></small>
+<small><i>Last updated on 2024/12/6 6:16 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
