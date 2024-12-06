@@ -1,61 +1,686 @@
-# 🚀 GitHub Profile Views Counter [<img alt="Image of my-profile-view-counter" src="https://github.com/gayanvoice/my-profile-view-counter/blob/master/graph/372372861/small/week.png" height="20">](https://github.com/gayanvoice/my-profile-view-counter/blob/master/readme/372372861/week.md)
+## [🚀 GitHub Profile Views Counter](https://github.com/gayanvoice/github-profile-views-counter)
+**GitHub Profile Views Counter** is an opensource project that powered entirely by  `GitHub Actions` to fetch and store insights of repositories.
+It uses `GitHub API` to fetch the insight data of your repositories and commits changes into a separate repository.
 
-[![Image of my-profile-view-counter](https://github.com/gayanvoice/my-profile-view-counter/blob/master/svg/372372861/badge.svg)](https://github.com/gayanvoice/my-profile-view-counter/blob/master/readme/372372861/week.md)
+The project created and maintained by [gayanvoice](https://github.com/gayanvoice). Don't forget to follow him on [GitHub](https://github.com/gayanvoice), [Twitter](https://twitter.com/gayanvoice), and [Medium](https://gayanvoice.medium.com/).
 
- 
-Many GitHub page views counters are not stable as it seems. Any service disruptions or simply removal of these services can lose your profile views. Use this GitHub Action to record changes. It generates badges, charts, and tables for each repository and a badge for total views for your profile.
+<table>
+	<tr>
+		<th>
+			Repository
+		</th>
+		<th>
+			Last Updated
+		</th>
+		<th>
+			Unique
+		</th>
+		<th>
+			Views
+		</th>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Keerthivasan-Venkitajalam/views/tree/master/readme/743233508/year.md">
+				Keerthivasan-Venkitajalam
+			</a>
+		</td>
+		<td>
+			2024/12/3 12:00 AM UTC
+		</td>
+		<td>
+			10
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Keerthivasan-Venkitajalam/views/raw/master/graph/743233508/small/year.png" height="20"> 63
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Keerthivasan-Venkitajalam/views/tree/master/readme/898789370/year.md">
+				Healthy-Her
+			</a>
+		</td>
+		<td>
+			2024/12/3 5:33 PM UTC
+		</td>
+		<td>
+			6
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Keerthivasan-Venkitajalam/views/raw/master/graph/898789370/small/year.png" height="20"> 30
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Keerthivasan-Venkitajalam/views/tree/master/readme/898470849/year.md">
+				Keerthivasan-Venkitajalam-Portfolio
+			</a>
+		</td>
+		<td>
+			2024/12/3 5:33 PM UTC
+		</td>
+		<td>
+			7
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Keerthivasan-Venkitajalam/views/raw/master/graph/898470849/small/year.png" height="20"> 112
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Keerthivasan-Venkitajalam/views/tree/master/readme/821558039/year.md">
+				Leetcoding
+			</a>
+		</td>
+		<td>
+			2024/12/3 5:33 PM UTC
+		</td>
+		<td>
+			4
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Keerthivasan-Venkitajalam/views/raw/master/graph/821558039/small/year.png" height="20"> 5
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Keerthivasan-Venkitajalam/views/tree/master/readme/891347810/year.md">
+				XOS-file-management-and-retrieval
+			</a>
+		</td>
+		<td>
+			2024/12/3 5:33 PM UTC
+		</td>
+		<td>
+			5
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Keerthivasan-Venkitajalam/views/raw/master/graph/891347810/small/year.png" height="20"> 7
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Keerthivasan-Venkitajalam/views/tree/master/readme/890961775/year.md">
+				MAINTENANCE-NEEDS-AND-TRAFFIC-ANOMALIES-IN-NETWORK-DEVICES-USING-MACHINE-LEARNING
+			</a>
+		</td>
+		<td>
+			2024/12/3 12:00 AM UTC
+		</td>
+		<td>
+			10
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Keerthivasan-Venkitajalam/views/raw/master/graph/890961775/small/year.png" height="20"> 14
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Keerthivasan-Venkitajalam/views/tree/master/readme/890958003/year.md">
+				deadlock_and_cycle_detection
+			</a>
+		</td>
+		<td>
+			2024/12/3 5:33 PM UTC
+		</td>
+		<td>
+			5
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Keerthivasan-Venkitajalam/views/raw/master/graph/890958003/small/year.png" height="20"> 5
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Keerthivasan-Venkitajalam/views/tree/master/readme/890948303/year.md">
+				Remote_Sensing_And_MachineLearning
+			</a>
+		</td>
+		<td>
+			2024/12/3 5:33 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Keerthivasan-Venkitajalam/views/raw/master/graph/890948303/small/year.png" height="20"> 3
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Keerthivasan-Venkitajalam/views/tree/master/readme/842817597/year.md">
+				AI-Algorithms-for-Personalized-Medicine-Based-on-Genomic-Data
+			</a>
+		</td>
+		<td>
+			2024/12/3 12:00 AM UTC
+		</td>
+		<td>
+			7
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Keerthivasan-Venkitajalam/views/raw/master/graph/842817597/small/year.png" height="20"> 20
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Keerthivasan-Venkitajalam/views/tree/master/readme/890463104/year.md">
+				ils_on_tsp_and_added_ML
+			</a>
+		</td>
+		<td>
+			2024/12/3 5:34 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Keerthivasan-Venkitajalam/views/raw/master/graph/890463104/small/year.png" height="20"> 1
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Keerthivasan-Venkitajalam/views/tree/master/readme/879207401/year.md">
+				remotif.ai
+			</a>
+		</td>
+		<td>
+			2024/12/3 5:34 PM UTC
+		</td>
+		<td>
+			7
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Keerthivasan-Venkitajalam/views/raw/master/graph/879207401/small/year.png" height="20"> 19
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Keerthivasan-Venkitajalam/views/tree/master/readme/866473980/year.md">
+				skin-cancer-ai
+			</a>
+		</td>
+		<td>
+			2024/12/3 5:34 PM UTC
+		</td>
+		<td>
+			3
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Keerthivasan-Venkitajalam/views/raw/master/graph/866473980/small/year.png" height="20"> 14
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Keerthivasan-Venkitajalam/views/tree/master/readme/865307729/year.md">
+				gen-ai-exchange-hackathon-Skin-Cancer-Detection-Tool
+			</a>
+		</td>
+		<td>
+			2024/12/3 5:34 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Keerthivasan-Venkitajalam/views/raw/master/graph/865307729/small/year.png" height="20"> 3
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Keerthivasan-Venkitajalam/views/tree/master/readme/851707952/year.md">
+				evolumin_healthcare_monitoring_system
+			</a>
+		</td>
+		<td>
+			2024/12/3 5:34 PM UTC
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Keerthivasan-Venkitajalam/views/raw/master/graph/851707952/small/year.png" height="20"> 2
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Keerthivasan-Venkitajalam/views/tree/master/readme/827776859/year.md">
+				school
+			</a>
+		</td>
+		<td>
+			2024/12/3 5:34 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Keerthivasan-Venkitajalam/views/raw/master/graph/827776859/small/year.png" height="20"> 1
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Keerthivasan-Venkitajalam/views/tree/master/readme/822210243/year.md">
+				PRODIGY_ML_05
+			</a>
+		</td>
+		<td>
+			2024/12/3 5:34 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Keerthivasan-Venkitajalam/views/raw/master/graph/822210243/small/year.png" height="20"> 3
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Keerthivasan-Venkitajalam/views/tree/master/readme/821873466/year.md">
+				PRODIGY_ML_04
+			</a>
+		</td>
+		<td>
+			2024/12/3 5:35 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Keerthivasan-Venkitajalam/views/raw/master/graph/821873466/small/year.png" height="20"> 3
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Keerthivasan-Venkitajalam/views/tree/master/readme/821553438/year.md">
+				Brainwave_Matrix_Intern_Python_task2
+			</a>
+		</td>
+		<td>
+			2024/12/3 5:35 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Keerthivasan-Venkitajalam/views/raw/master/graph/821553438/small/year.png" height="20"> 3
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Keerthivasan-Venkitajalam/views/tree/master/readme/820841628/year.md">
+				PRODIGY_ML_3
+			</a>
+		</td>
+		<td>
+			2024/12/3 5:35 PM UTC
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Keerthivasan-Venkitajalam/views/raw/master/graph/820841628/small/year.png" height="20"> 5
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Keerthivasan-Venkitajalam/views/tree/master/readme/820564269/year.md">
+				PRODIGY_ML_02
+			</a>
+		</td>
+		<td>
+			2024/12/3 5:35 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Keerthivasan-Venkitajalam/views/raw/master/graph/820564269/small/year.png" height="20"> 3
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Keerthivasan-Venkitajalam/views/tree/master/readme/820557451/year.md">
+				PRODIGY_ML_01
+			</a>
+		</td>
+		<td>
+			2024/12/3 5:35 PM UTC
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Keerthivasan-Venkitajalam/views/raw/master/graph/820557451/small/year.png" height="20"> 6
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Keerthivasan-Venkitajalam/views/tree/master/readme/817280671/year.md">
+				Brainwave_Matrix_Intern_Python_task1
+			</a>
+		</td>
+		<td>
+			2024/12/3 5:35 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Keerthivasan-Venkitajalam/views/raw/master/graph/817280671/small/year.png" height="20"> 3
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Keerthivasan-Venkitajalam/views/tree/master/readme/817272612/year.md">
+				Brainwave_Matrix_Intern
+			</a>
+		</td>
+		<td>
+			2024/12/3 5:35 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Keerthivasan-Venkitajalam/views/raw/master/graph/817272612/small/year.png" height="20"> 3
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Keerthivasan-Venkitajalam/views/tree/master/readme/815972086/year.md">
+				fake-news-prediction
+			</a>
+		</td>
+		<td>
+			2024/12/3 5:35 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Keerthivasan-Venkitajalam/views/raw/master/graph/815972086/small/year.png" height="20"> 1
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Keerthivasan-Venkitajalam/views/tree/master/readme/812246391/year.md">
+				healthcare_monitoring_system
+			</a>
+		</td>
+		<td>
+			2024/12/3 5:36 PM UTC
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Keerthivasan-Venkitajalam/views/raw/master/graph/812246391/small/year.png" height="20"> 9
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Keerthivasan-Venkitajalam/views/tree/master/readme/812230052/year.md">
+				graphs_and_neural_networks_mfc
+			</a>
+		</td>
+		<td>
+			2024/12/3 5:36 PM UTC
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Keerthivasan-Venkitajalam/views/raw/master/graph/812230052/small/year.png" height="20"> 2
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Keerthivasan-Venkitajalam/views/tree/master/readme/812231793/year.md">
+				prediction_of_used_car_prices
+			</a>
+		</td>
+		<td>
+			2024/12/3 5:36 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Keerthivasan-Venkitajalam/views/raw/master/graph/812231793/small/year.png" height="20"> 1
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Keerthivasan-Venkitajalam/views/tree/master/readme/812228891/year.md">
+				stock-portfolio-management-design-non-functional
+			</a>
+		</td>
+		<td>
+			2024/12/3 5:36 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Keerthivasan-Venkitajalam/views/raw/master/graph/812228891/small/year.png" height="20"> 1
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Keerthivasan-Venkitajalam/views/tree/master/readme/812226589/year.md">
+				mp3_player_java
+			</a>
+		</td>
+		<td>
+			2024/12/3 5:36 PM UTC
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Keerthivasan-Venkitajalam/views/raw/master/graph/812226589/small/year.png" height="20"> 2
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Keerthivasan-Venkitajalam/views/tree/master/readme/812048146/year.md">
+				image_processing_in_mips
+			</a>
+		</td>
+		<td>
+			2024/12/3 5:36 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Keerthivasan-Venkitajalam/views/raw/master/graph/812048146/small/year.png" height="20"> 1
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Keerthivasan-Venkitajalam/views/tree/master/readme/806569259/year.md">
+				diabetes-prediction
+			</a>
+		</td>
+		<td>
+			2024/12/3 5:36 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Keerthivasan-Venkitajalam/views/raw/master/graph/806569259/small/year.png" height="20"> 1
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Keerthivasan-Venkitajalam/views/tree/master/readme/767313267/year.md">
+				Intel_HACKATHON_TEAM_CODE_COMMANDERS
+			</a>
+		</td>
+		<td>
+			2024/12/3 5:36 PM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Keerthivasan-Venkitajalam/views/raw/master/graph/767313267/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Keerthivasan-Venkitajalam/views/tree/master/readme/763072915/year.md">
+				GDSC_SOLUTIONS_CHALLENGE_2023_TEAM_FRATERNITY
+			</a>
+		</td>
+		<td>
+			2024/12/3 5:37 PM UTC
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Keerthivasan-Venkitajalam/views/raw/master/graph/763072915/small/year.png" height="20"> 3
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Keerthivasan-Venkitajalam/views/tree/master/readme/744316609/year.md">
+				GDSC-Solutions-Challenge-TEAM-FRATERNITY
+			</a>
+		</td>
+		<td>
+			2024/12/3 5:37 PM UTC
+		</td>
+		<td>
+			4
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Keerthivasan-Venkitajalam/views/raw/master/graph/744316609/small/year.png" height="20"> 8
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Keerthivasan-Venkitajalam/views/tree/master/readme/751849429/year.md">
+				Computational-thinking
+			</a>
+		</td>
+		<td>
+			2024/12/3 5:37 PM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Keerthivasan-Venkitajalam/views/raw/master/graph/751849429/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Keerthivasan-Venkitajalam/views/tree/master/readme/743191581/year.md">
+				MATHEMATICS_FOR_COMPUTING_SEM1_PROJECT_1_FACIAL_RECOGNITION_USING_PCA-SVD
+			</a>
+		</td>
+		<td>
+			2024/12/3 5:37 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Keerthivasan-Venkitajalam/views/raw/master/graph/743191581/small/year.png" height="20"> 1
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Keerthivasan-Venkitajalam/views/tree/master/readme/743191862/year.md">
+				ELEMENTS_OF_COMPUTING_1_SEM1_PROJECT_1_CPU_-_PROJECT_2_SERIAL_BINARY_ADDER_USING_SR_FLIPFLOP
+			</a>
+		</td>
+		<td>
+			2024/12/3 5:37 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Keerthivasan-Venkitajalam/views/raw/master/graph/743191862/small/year.png" height="20"> 1
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Keerthivasan-Venkitajalam/views/tree/master/readme/743190582/year.md">
+				COMPUTATIONAL_PHYSICS_SEM1_PROJECT_1_AIR_FLIGHT_DYNAMICS
+			</a>
+		</td>
+		<td>
+			2024/12/3 5:37 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Keerthivasan-Venkitajalam/views/raw/master/graph/743190582/small/year.png" height="20"> 1
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Keerthivasan-Venkitajalam/views/tree/master/readme/743040344/year.md">
+				DISCRETE_MATHEMATICS_SEM1_PROJECT_1_EMAIL_SPAM_DETECTION
+			</a>
+		</td>
+		<td>
+			2024/12/3 5:37 PM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Keerthivasan-Venkitajalam/views/raw/master/graph/743040344/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/Keerthivasan-Venkitajalam/views/tree/master/readme/741767733/year.md">
+				C_PROGRAMMING-PROBLEM_SOLVING_SEM1_PROJECT_1_MATRIX_OPERATIONS_HEADER_FILE_CREATION
+			</a>
+		</td>
+		<td>
+			2024/12/3 5:37 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Keerthivasan-Venkitajalam/views/raw/master/graph/741767733/small/year.png" height="20"> 1
+		</td>
+	</tr>
+</table>
 
-## ▶️ Watch
-[![How to Setup GitHub Profile Views Counter for your GitHub profile](https://img.youtube.com/vi/K6FYiP_XRuU/0.jpg)](https://www.youtube.com/watch?v=K6FYiP_XRuU)
+<small><i>Last updated on 2024/12/6 5:38 PM UTC</i></small>
 
-## Why do you need 🚀 GitHub Profile Views Counter?
-The main problem of using external services is what you do when they cut off their services? You will see a broken URL of the SVG you used to see profile views, and the next thing is you already lost thousands of profile views.
+## ✂️Copy and 📋 Paste
+### Total Views Badge
+[![Image of https://github.com/Keerthivasan-Venkitajalam/views](https://github.com/Keerthivasan-Venkitajalam/views/blob/master/svg/profile/badge.svg)](https://github.com/Keerthivasan-Venkitajalam/views)
 
-But this GitHub Profile Views Counter is different from others. It’s a public repository in your profile, and it stores all the data and SVG files. So you don’t lose anything, and it updates the page views every 6 hours. It fetches insights data of your repository from GitHub API. It records the number of unique visitors and also page views.
+```readme
+[![Image of https://github.com/Keerthivasan-Venkitajalam/views](https://github.com/Keerthivasan-Venkitajalam/views/blob/master/svg/profile/badge.svg)](https://github.com/Keerthivasan-Venkitajalam/views)
+```
+[**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
+## ⛔ DO NOT
+- Do not commit any changes to `./cache` directory. This feature helps to integrity of the records for visitors.
+- The app will automatically stop measuring insights until you revoke those commits.
+## 📦 Third party
 
-## Features
-**Charts —** The action generates charts for the week, month, and year. The below chart is for the week for a repository. Go to gayanvoice/my-profile-view-counter to see how it works.
-
-**Tables —** The action generates charts for the week, month, and year.
-## Setup
-**1 —** 🚀 Go to gayanvoice/github-profile-views-counter and click on **Use this template** button to create a new repository
-
-By using a template you don’t need to create the files from scratch, and all you need is to change the configuration.
-
-![GitHub Profile Views Counter - Click on Use this template button to create a new repository](https://miro.medium.com/max/600/1*wvbb87wOd1wCHKJh06vjPA.png)
-
-
-**2 —** ⚡️ Enter a **repository name** and select repository type to **public repository** and click on **Create repository from template** button
-
-You can give any name for the repository. You need to select repository type to public. Because GitHub provides an unlimited number of action minutes for public repositories.
-
-If you choose private, the free usage will limit to 2000 minutes per month. Go to GitHub Pricing page for more pricing plans.
-
-![GitHub Profile Views Counter - Click on create repository from template button to create the repository](https://miro.medium.com/max/600/1*hHdIM_fVnkdVdQGrbL1jRA.png)
-
-After you click on **Create repository from template** button, it will take some time to create the repository.
-
-**3 —** 🔒 Create a new personal access token with **repo** and **workflow** options
-
-Go to Personal Access Tokens and click on Generate new token button. Give it any name and select repo and workflow options and click on Generate token button. ✂️ Copy the token.
-
-![GitHub Profile Views Counter - create a new personal access token with repo and workflow options](https://miro.medium.com/max/700/1*YMft8U6IYTpBg7C5cASDUA.png)
-
-**4 —** 🔑 Go to your profile views counter repository and go to **Settings**, and select **Secrets** option from left side bar. Click on **New repository secret** button and enter **name** as **INSIGHTS_TOKEN** and 📋 paste the **personal access token** under **value**. Click on **Add secret** button.
-
-![GitHub Profile Views Counter - add repository secret by using repository secrets](https://miro.medium.com/max/700/1*jLtkxQNj2qrGcc4bLIvw3A.png)
-
-**5 —** 📄 Go to your profile views counter repository. Go to **config.json** and click on edit button. Add repository names.
-
-![GitHub Profile Views Counter - edit config.json file to add repository names](https://miro.medium.com/max/700/1*35wJBw75Fp5D_5t-fhaT_g.png)
-
-**6 —** Go to your profile views counter repository and click on Actions tab. Select the workflow and click on **Run workflow** button.
-
-![GitHub Profile Views Counter - click on run workflow button](https://miro.medium.com/max/700/1*hKkJ9EXlK14b3H3SeCNk4Q.png)
-
-It will take few minutes depends on number of repositories you have entered to the workflow. It will generate total views badge, repository badges, and markdown files.
-
+- [@octokit/rest](https://www.npmjs.com/package/@octokit/rest) - Send REST API requests to GitHub.
+- [fs-extra](https://www.npmjs.com/package/fs-extra) - Creating directories and files.
+- [simple-git](https://www.npmjs.com/package/simple-git) - Handling Git commands.
+- [node-chart-exec](https://www.npmjs.com/package/node-chart-exec) - Generate graphs.
 ## 📄 License
-- Repository: [gayanvoice/github-profile-views-counter](https://github.com/gayanvoice/github-profile-views-counter)
-- Source - [gayanvoice/github-insights](https://github.com/gayanvoice/github-insights)
-- Code: [MIT](./LICENSE) © [Gayan Kuruppu](https://github.com/gayanvoice)
+- Powered by: [GitHub Profile Views Counter](https://github.com/gayanvoice/github-profile-views-counter)
+- Code: [MIT](./LICENSE) © [gayanvoice](https://github.com/gayanvoice)
+- Data in the `./cache` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
